@@ -1,5 +1,5 @@
 # Credit Risk Analysis for extending Bank Loans
-Credit Rating based on customer details for a leading bank#
+Credit Rating based on customer details for a leading bank
 
 ## OVERVIEW OF CREDIT SCORING:
 
